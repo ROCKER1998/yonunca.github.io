@@ -3,21 +3,20 @@
 		
 		
 		background-image: url("c7bba-havanaclubselecciondemaestros2 (1).jpg");
-                height: 500px;
-                filter:brightness(0.4);
                 background-repeat: no-repeat;
                 background-position: 0 0;
                 background-size: cover;
-                min-height:100%
+                min-height:100;
+                color:white;
 
 	}
 		
 	header, footer{
 		background:#343a40;			
-	    font-size:60px;
+	        font-size:30px;
 		text-align: center;
 		color: white;
-		font-family: cursive;
+		font-family: arial;
 		padding: 5px;
 		
 		}
