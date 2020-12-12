@@ -1,9 +1,9 @@
 	body{
 
-		/*background:#1abc9c;*/
+		
 		background-color:transparent;
 		background-image: url("fondo.jpg");
-		background-size:cover;
+		/*background-size:cover;*/
 	}
 		
 	header, footer{
