@@ -3,7 +3,7 @@
 		var textos = new Array()
 		textos[0] = " Yo nunca he vuelto con mi ex.";
 		textos[1] = " He mandado nudes.";
-	/*	textos[2] = " He aparentado no  estar borracho para no discutir con mi madre.";
+		textos[2] = " He aparentado no  estar borracho para no discutir con mi madre.";
 		textos[3] = " Yo nunca me he liado con el ex de un amig@";
 		textos[4] = "  he escrito a mi ex una noche de fiesta";
 		textos[5] = "  he fingido que me llamaban para escapar de una cita o lugar";
@@ -103,7 +103,7 @@
 		textos[99] = "He inventado excusas para no follar"; 
 		textos[100] = "He matado a un familiar en las mentiras a los profesores"; 
 		textos[101]="Le dije compañera a un compañero sin querer";
-		textos[102]="He sido estafado";*/
+		textos[102]="He sido estafado";
 	
 
 
