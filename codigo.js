@@ -4,7 +4,7 @@
 		textos[0] = " Yo nunca he vuelto con mi ex.";
 		textos[1] = " He mandado nudes.";
 		textos[2] = " He aparentado no  estar borracho para no discutir con mi madre.";
-		textos[3] = " Yo nunca me he liado con el ex de un amig@";
+	    textos[3] = " Yo nunca me he liado con el ex de un amig@";
 		textos[4] = "  he escrito a mi ex una noche de fiesta";
 		textos[5] = "  he fingido que me llamaban para escapar de una cita o lugar";
 		textos[6] = " he estado más de tres días sin ducharme ";
@@ -22,7 +22,7 @@
 		textos[18] = "He pasado pena al acostarme con alguien desconocid@"; 
 		textos[19] = "Me fugue de la escuela"; 
 		textos[20] = "Hice fraude"; 
-		textos[21] = "He tratado de entrar al FB de alguien"; 
+		textos[21] = "He tratado de entrar al Facebook de alguien"; 
 		textos[22] = "He visto desnud@ por error a alguien"; 
 		textos[23] = "No me he confundido de contacto en WhatSapp y le he dicho algo ofencivo"; 
 		textos[24] = "He visto porno"; 
@@ -41,10 +41,10 @@
 		textos[37] = "Me he ido sin pagar de un lugar (por equivocacion o a proposito)"; 
 		textos[38] = "He visto a dos amigos mios teniendo sexo"; 
 		textos[39] = "He follado en publico"; 
-		textos[40] = "He estado con una persona borrach@ y al amanecer he dicho: PA LA PINGAAA!!!"; 
+		textos[40] = "He usado ropa del sexo opuesto"; 
 		textos[41] = "He ido a salir con un piquete y he regresado con otro"; 
 		textos[42] = "Me he juntado con un piquete que ni conozco solo para emborracharme y pasar la noche"; 
-		textos[43] = "He pasado la noche en G"; 
+		textos[43] = "Me he masturbado en una casa agena"; 
 		textos[44] = "He ido caminando del Vedado o La Habana hasta mi casa"; 
 		textos[45] = "He sido asaltad@"; 
 		textos[46] = "Me he tocado el celular despues de tirarme un pedo para aparentar"; 
@@ -53,14 +53,14 @@
 		textos[49] = "Me he acostado con una persona mucho mayor que yo (+ de 20 años)"; 
 		textos[50] = "He visto porno en la escuela"; 
 		textos[51] = "Yo nunca he aparentado estar tomando para que no vean que estoy borracho"; 
-		textos[52] = "He tiburoneado con mas de 2 personas a la vez por mensajes"; 
+		textos[52] = "He sateado con mas de 2 personas a la vez por mensajes"; 
 		textos[53] = "He mentido por amor "; 
 		textos[54] = "Tuve  una fantasía rara"; 
 		textos[55] = "He traicionado a un amigo para beneficiarme"; 
 		textos[56] = "Me he fijado en alguien que no debo"; 
 		textos[57] = "He tenido un orgasmo"; 
 		textos[58] = "He follado más de 3 veces seguidas "; 
-		textos[59] = "He estado con más de un chico en un día"; 
+		textos[59] = "He estado con más de un@ chic@ en un día"; 
 		textos[60] = "He hecho una orgía"; 
 		textos[61] = "He tenido sexo oral"; 
 		textos[62] = "He tenido sexo anal"; 
@@ -73,7 +73,7 @@
 		textos[69] = "He tenido ganas de morirme"; 
 		textos[70] = "Me he sentido sol@"; 
 		textos[71] = "He dudado de mi"; 
-		textos[72] = "Me he masturbado en una casa ajena"; 
+		textos[72] = "He fantaseado con alguien mientras converso con esa persona"; 
 		textos[73] = "He desconfiado de mis amistades"; 
 		textos[74] = "He sentido vergüenza de mi cuerpo "; 
 		textos[75] = "He tenido complejos"; 
@@ -95,8 +95,8 @@
 		textos[91] = "He llorado en publico"; 
 		textos[92] = "Me he exitado pensando en cosas pervertidas en un luagr publico"; 
 		textos[93] = "Le he hecho bromas pesadas a desconocidos"; 
-                textos[94] = "He sentido curiosidad sobre que se siente estar con alguien de tu propio sexo"; 
-                textos[95] = "Me he orinado mientras dormia despues de grande"; 
+        textos[94] = "He sentido curiosidad sobre que se siente estar con alguien de tu propio sexo"; 
+        textos[95] = "Me he orinado mientras dormia despues de grande"; 
 		textos[96] = "He visto porno gay"; 
 		textos[97] = "He vendido algo ilegal"; 
 		textos[98] = "Me he drogado"; 
@@ -116,6 +116,6 @@
              textos.splice(nro, 1);
   } else {	
 
-            document.getElementById("resultado").innerHTML = "Se acabo 😥, puede contribuir con mas preguntas enviando un correo a rop010698@gmail.com <br><br> <a class='ws' href='https://api.whatsapp.com/send?phone=+5353224567&text=Hola!%20Quiero%20cooperar%20con%20YoNuncaCuban!'>Contacte al desarrollador si desea cooperar</a>";
+            document.getElementById("resultado").innerHTML = "Se acabo 😥, puede contribuir con mas preguntas enviando un correo a rop010698@gmail.com <br><br> <a class='ws' href='https://api.whatsapp.com/send?phone=+5353224567&text=Hola!%20Quiero%20cooperar%20con%20YoNuncaCuban!'>Contacte al desarrollador si desea cooperar</a> <br><br> Proximamente planes premium";
   }
 }
