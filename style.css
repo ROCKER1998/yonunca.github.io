@@ -37,7 +37,12 @@
 		font-size:30px;
 		color: white;
 		padding:20px;
-	}
+	}button.hover{
+background: gray;
+color:black;
+
+
+}
 	#resultado{
 		min-height:50vh;
 		font-size:80px;
